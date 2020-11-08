@@ -1,4 +1,4 @@
-package Homework5;
+package Homework2;
 
 public class Horse extends Animals{
     Horse(String name, float maxJump, float maxRun, float maxSwim) {
