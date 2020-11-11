@@ -1,4 +1,4 @@
-package Homework5;
+package Homework2;
 
     public abstract class Animals {
         private String type;
